@@ -1,14 +1,10 @@
 # Starting New Journey Using Markdown
 
-## Step 1
-
-## Step 2
-
-### Image Using MD
+## Image Using MD
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-### Golang Hello World
+## Golang Hello World
 
 ```go
 package main
@@ -18,3 +14,9 @@ func main(){
   fmt.Println('Hello World")
 }
 ```
+
+## Todo Task
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
